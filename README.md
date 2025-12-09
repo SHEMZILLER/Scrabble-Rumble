@@ -63,13 +63,13 @@ To test the project locally:
     ```bash
     git clone https://github.com/yourusername/crypto-scramble-rumble.git
     ```
-2.  Import the `project.godot` file into **Godot Engine 4.x**.
-3.  **Export to Web:** Project \> Export \> Web (HTML5).
-4.  **Run Server:** You must run the HTML file via a local server (e.g., Python `http.server` or VS Code Live Server) for the Web3 wallet injection to work correctly.
+2.  **Export to Web:** Project \> Export \> Web (HTML5).
+3.  **Run Server:** You must run the HTML file via a local server (e.g., Python `http.server` or VS Code Live Server) for the Web3 wallet injection to work correctly.
 
 -----
 
 \<p align="center"\>
-\<i\>Built with ☕ and SOL by [Your Name]\</i\>
+\<i\>Built with ☕ and SOL by [Shemziller]\</i\>
 \</p\>
+
 
